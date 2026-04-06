@@ -9,8 +9,6 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-purple)]()
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Toxic--Friend-orange)]()
 
----
-
 你被队友气到血压升高？
 你截图发给朋友问"这操作是人能打出来的"？
 你盯着 0-5 的战绩想摔手机？
@@ -22,8 +20,6 @@
 提供队友的坑爹操作、社交截图、你的描述
 生成一个精准的毒舌回怼
 预测队友怎么回你，或者直接帮你骂回去
-
----
 
 ⚠️ 本 skill 仅用于个人娱乐吐槽，不用于人身攻击、网络暴力或骚扰他人。游戏而已，开心最重要。
 
